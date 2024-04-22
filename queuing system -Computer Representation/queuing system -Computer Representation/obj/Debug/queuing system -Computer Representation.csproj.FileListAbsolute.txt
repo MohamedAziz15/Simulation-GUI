@@ -1,0 +1,11 @@
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing system -Computer Representation.csproj.AssemblyReference.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing system -Computer Representation.csproj.SuggestedBindingRedirects.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing_system__Computer_Representation.Form1.resources
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing_system__Computer_Representation.Properties.Resources.resources
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing system -Computer Representation.csproj.GenerateResource.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing system -Computer Representation.csproj.CoreCompileInputs.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\bin\Debug\queuing system -Computer Representation.exe.config
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\bin\Debug\queuing system -Computer Representation.exe
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\bin\Debug\queuing system -Computer Representation.pdb
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing system -Computer Representation.exe
+E:\ARTIFICIAL INTELLEGENCE\Semester 8\Simulation\task\queuing system -Computer Representation\queuing system -Computer Representation\obj\Debug\queuing system -Computer Representation.pdb
