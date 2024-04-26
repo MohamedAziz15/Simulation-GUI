@@ -69,9 +69,11 @@ namespace queuing_system__Computer_Representation
                 {
                     case 1:
                         arrive();
+                        ArrivalBTN.Text = sim_time.ToString();
                         break;
                     case 2:
                         depart();
+                        ArrivalBTN.Text = sim_time.ToString();
                         break;
                 }
             }
